@@ -81,7 +81,7 @@ Group-buying has existed for years, but always as a merchant *discount tier*. Ad
 There is nothing to install and nothing to build. The app does need to be **served over HTTP** rather than opened as a file, because it uses ES modules and the Web Crypto API.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/adda.git
+git clone https://github.com/jainambhavinshah-web/adda.git
 cd adda
 python3 -m http.server 8000
 # then open http://localhost:8000
@@ -97,7 +97,7 @@ adda.reset()
 
 ## Deploying
 
-Push to `main`, then in the repository: **Settings → Pages → Source: Deploy from a branch → `main` / `/ (root)` → Save**. The site is live at `https://YOUR-USERNAME.github.io/adda/` within a minute or two.
+Push to `main`, then in the repository: **Settings → Pages → Source: Deploy from a branch → `main` / `/ (root)` → Save**. The site is live at `https://jainambhavinshah-web.github.io/adda/` within a minute or two.
 
 ---
 
