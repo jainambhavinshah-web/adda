@@ -2,7 +2,7 @@
 
 **Group experiences that only happen when enough people show up — and get cheaper for everyone the more people join.**
 
-Live app: **https://YOUR-USERNAME.github.io/adda/**
+Live app: **https://jainambhavinshah-web.github.io/adda/**
 
 ---
 
